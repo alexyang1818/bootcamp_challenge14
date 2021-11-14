@@ -33,6 +33,7 @@ This study analyzed the data of the Citi Bike Rides and visualized the results u
 
 - Additional observations on non-subscribing customers. Non-subscribing customers are presumably identified as "UNKNOWN" gender since their customer information is usually imcomplete. Non-subscribing customers use bikes mostly on weekends for leisure. Their checkout times peaks between 10 to 25 minutes.
 
+![Trips_by_Gender_Weekday_per_Hour_UNKNOWN](image/Trips_by_Gender_Weekday_per_Hour_UNKNOWN.PNG)
 ![Checkout_Times_for_Gender_UNKNOWN](image/Checkout_Times_for_Gender_UNKNOWN.PNG)
 
 ## Summary
